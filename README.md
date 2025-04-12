@@ -4,7 +4,7 @@ Hi 👋 My name is Ignat
 Begginer programer.
 -------------------
 
-Studing in BSUIR in IEF fuculty. My goal is to become a Backend Developer with a focus on FinTech.
+Studing in BSUIR in Faculty of Engineering and Economics(IEF). My goal is to become a Backend Developer with a focus on FinTech.
 
 * 🌍  I'm based in Minsk, Belarus
 * ✉️  You can contact me at [ignatladno@gmail.com](mailto:ignatladno@gmail.com)
