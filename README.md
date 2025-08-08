@@ -34,6 +34,19 @@ Studing in BSUIR in Faculty of Engineering and Economics(IEF). My goal is to bec
 
 <a href="https://github.com/TaurineManiac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurineManiac&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/TaurineManiac/oaip_sem_2_kursach" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaurineManiac&repo=oaip_sem_2_kursach&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="left">
+  <a href="https://github.com/TaurineManiac/oaip_sem_2_kursach">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaurineManiac&repo=oaip_sem_2_kursach&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+
+
+<div width="100%" align="lkeft">
+  <a href="https://github.com/TaurineManiac/sapper">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaurineManiac&repo=sapper&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br />
