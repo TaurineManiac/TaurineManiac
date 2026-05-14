@@ -1,49 +1,40 @@
-Hi 👋 My name is Ignat
-======================
-
-Beginner programmer.
--------------------
-
-Studing in BSUIR in Faculty of Engineering and Economics(IEF). My goal is to become a Backend Developer with a focus on FinTech.
-
-* 🌍  I'm based in Minsk, Belarus
-* ✉️  You can contact me at [ignatladno@gmail.com](mailto:ignatladno@gmail.com)
-* 🧠  I'm learning C/C++;Java;Python.
-* ⚡  I am not maniac(not sure).
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://gravatar.com/delicate2064f719bb" target="_blank" rel="noreferrer"> <picture> <img src="https://gravatar.com/avatar/delicate2064f719bb?s=32" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/ladno_375" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TaurineManiac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ignatjostar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ignat-shestopalov/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<a href="https://github.com/TaurineManiac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaurineManiac&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Top Repositories
-
-<div width="100%" align="left">
-  <a href="https://github.com/TaurineManiac/oaip_sem_2_kursach">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaurineManiac&repo=oaip_sem_2_kursach&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-
-
-
-<div width="100%" align="lkeft">
-  <a href="https://github.com/TaurineManiac/sapper">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaurineManiac&repo=sapper&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
+# Hello there! 👋
+ 
+I'm **Ignat**, a Java backend developer student based in Belarus.
+ 
+- 🎓 2nd-year Software Engineering student at `BSUIR`
+- 🏛️ Faculty of Engineering and Economics ( `IEF` )
+- 💻 `ISAT` — Information Systems and Technologies in Finance & Banking
+- 🚀 Interested in `building` `clean` `backend` `systems`
+---
+ 
+## 🛠 Tech stack
+ 
+**Languages:**  
+`Java` (main) · `Python` (scripting, data analysis) · `SQL` · `JavaScript`
+ 
+**Backend:**  
+`Spring Boot` · `Spring Security` · `Hibernate / JPA` · `REST API` · `JWT` · `TOTP 2FA`
+ 
+**Databases & infra:**  
+`PostgreSQL` · `Liquibase` · `Docker`
+ 
+**Core skills:**  
+`OOP` · `Algorithms` · `Data Structures` · `Microservices` · `TCP/IP Sockets`
+ 
+**Tools:**  
+`Git` · `Maven` · `Gradle` · `JUnit` · `Mockito`
+ 
+---
+ 
+## 🌐 Languages
+ 
+- 🇷🇺 Russian — Native
+- 🇬🇧 English — B2 (Upper-Intermediate)
+---
+ 
+## 📬 Contacts
+ 
+[![Telegram](https://img.shields.io/badge/Telegram-@DesertVolga-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/DesertVolga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignat_Shestopalov-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignat-shestopalov)
+[![Email](https://img.shields.io/badge/Email-ignatshestopalovhuman@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ignatshestopalovhuman@gmail.com)
