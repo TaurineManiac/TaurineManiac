@@ -3,7 +3,7 @@
 I'm **Ignat**, a Java backend developer student based in Belarus.
  
 - 🎓 2nd-year Software Engineering student at `BSUIR`
-- 🏛️ Faculty of Engineering and Economics ( `IEF` )
+- 🏛️ Faculty of Engineering and Economics ( `EEF` )
 - 💻 `ISAT` — Information Systems and Technologies in Finance & Banking
 - 🚀 Interested in `building` `clean` `backend` `systems`
 ---
